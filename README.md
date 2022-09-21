@@ -4,7 +4,7 @@ This simulation code was developed to predicting 3D structure and stability for 
 1. Keep the following files (DNA.c, initial_cof.dat, and P.dat (option)) in the same directory;
 3. Compile: gcc -Wall DNA.c -o DNA -lm
 4. Run: ./DNA, and typing from the keyboard according to the hit;
-     or ./DNA <P.dat, Ensuring that the P.dat is under the directory and modifying the file based on its description (see below). 
+or ./DNA <P.dat, Ensuring that the P.dat is under the directory and modifying the file based on its description (see below). 
 # Descriptions of input and output files
 a. Input files
 1. initial_conf.dat: initial conformation as input;
