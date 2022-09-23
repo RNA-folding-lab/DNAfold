@@ -46,6 +46,7 @@ Two examples for single- and double-stranded DNAs, respectively.
 1. ssDNA: 1JVE-27nt hairpin (5'-CCTAATTATAACGAAGTTATAATTAGG-3'); 
 2. dsDNA: 1QSK-duplex with bulge loop (strand1: 17nt, 5'-GCATCGAAAAAGCTACG-3'; strand2: 12nt, 5'-CGTAGCCGATGC-3')
 3. annealing from 100℃ to 20℃, slat=0
+4. run: ./DNA<P.dat
 # References
 1.	Shi, Y.Z., Wang, F.H., Wu, Y.Y. and Tan, Z.J. (2014) A coarse-grained model with implicit salt for RNAs: predicting 3D structure, stability and salt effect. J. Chem. Phys., 141, 105102.
 2.	Shi, Y.Z., Jin, L., Wang, F.H., Zhu, X.L. and Tan, Z.J. (2015) Predicting 3D structure, flexibility, and stability of RNA hairpins in monovalent and divalent ion solutions. Biophys. J., 109, 2654-2665.
