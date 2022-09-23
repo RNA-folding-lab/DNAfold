@@ -1,0 +1,101 @@
+This program starts at :Thu Sep 22 09:52:10 2022
+
+*************************
+Sequence information: 
+Chain number: 1
+The 1-th chain: Length = 27 & Sequence = CCTAATTATAACGAAGTTATAATTAGG
+*************************
+Condition:
+Initial Temperature = 100.000000  &  Steps = 300000  & Annealing way = 1
+Folding = 1 & salt= 0
+Output parameter:  tconf = 10000  &  tenergy = 1000  &  t_si = 10000  &  tprintf = 10000
+Ion condition:     CNa = 0.000000  &  CMg = 0.000000
+***************
+*************************
+Move sets: p_Move_3nt = 0.400000 (step = 0.800000) & p_move_pivot_angle = 0.500000 (step = 0.500000)  & step_pivot = 0.500000
+Energy parameters: base-pairing = -3.600000  &  base-stacking = -11.000000  & A(G)U(T)/GC = 0.670000/
+Temp 100.000000 T 373.149994 Kd 0.000000 I 0.000000 Ek 0.000000 q4 0.000000
+The information for the initial conformation at Temperature (100.000000 ℃ - 373.149994 K)
+stem_1 1 1 1 6 T 25 A
+stem_2 1 1 1 8 A 23 T
+stem_2 2 1 1 9 T 22 A
+stem_3 1 1 1 11 A 20 T
+Num of bp: 4; Basepairing: -5.170268; BaseStacking: -1.836065; Coaxial-Stacking: 0.000000
+Temp 90.000000 T 363.149994 Kd 0.000000 I 0.000000 Ek 0.000000 q4 0.000000
+The information for the initial conformation at Temperature (90.000000 ℃ - 363.149994 K)
+Num of bp: 0; Basepairing: 0.000000; BaseStacking: 0.000000; Coaxial-Stacking: 0.000000
+Temp 80.000000 T 353.149994 Kd 0.000000 I 0.000000 Ek 0.000000 q4 0.000000
+The information for the initial conformation at Temperature (80.000000 ℃ - 353.149994 K)
+Num of bp: 0; Basepairing: 0.000000; BaseStacking: 0.000000; Coaxial-Stacking: 0.000000
+Temp 70.000000 T 343.149994 Kd 0.000000 I 0.000000 Ek 0.000000 q4 0.000000
+The information for the initial conformation at Temperature (70.000000 ℃ - 343.149994 K)
+Num of bp: 0; Basepairing: 0.000000; BaseStacking: 0.000000; Coaxial-Stacking: 0.000000
+Temp 60.000000 T 333.149994 Kd 0.000000 I 0.000000 Ek 0.000000 q4 0.000000
+The information for the initial conformation at Temperature (60.000000 ℃ - 333.149994 K)
+stem_1 1 1 1 1 C 27 G
+stem_1 2 1 1 2 C 26 G
+stem_1 3 1 1 3 T 25 A
+stem_1 4 1 1 4 A 24 T
+stem_1 5 1 1 5 A 23 T
+stem_1 6 1 1 6 T 22 A
+stem_1 7 1 1 7 T 21 A
+stem_1 8 1 1 8 A 20 T
+stem_1 9 1 1 9 T 19 A
+stem_1 10 1 1 10 A 18 T
+stem_1 11 1 1 11 A 17 T
+Num of bp: 11; Basepairing: -15.076515; BaseStacking: -30.443970; Coaxial-Stacking: 0.000000
+Temp 50.000000 T 323.149994 Kd 0.000000 I 0.000000 Ek 0.000000 q4 0.000000
+The information for the initial conformation at Temperature (50.000000 ℃ - 323.149994 K)
+stem_1 1 1 1 1 C 27 G
+stem_1 2 1 1 2 C 26 G
+stem_1 3 1 1 3 T 25 A
+stem_1 4 1 1 4 A 24 T
+stem_1 5 1 1 5 A 23 T
+stem_1 6 1 1 6 T 22 A
+stem_1 7 1 1 7 T 21 A
+stem_1 8 1 1 8 A 20 T
+stem_1 9 1 1 9 T 19 A
+stem_1 10 1 1 10 A 18 T
+stem_1 11 1 1 11 A 17 T
+Num of bp: 11; Basepairing: -16.450920; BaseStacking: -34.581913; Coaxial-Stacking: 0.000000
+Temp 40.000000 T 313.149994 Kd 0.000000 I 0.000000 Ek 0.000000 q4 0.000000
+The information for the initial conformation at Temperature (40.000000 ℃ - 313.149994 K)
+stem_1 1 1 1 1 C 27 G
+stem_1 2 1 1 2 C 26 G
+stem_1 3 1 1 3 T 25 A
+stem_1 4 1 1 4 A 24 T
+stem_1 5 1 1 5 A 23 T
+stem_1 6 1 1 6 T 22 A
+stem_1 7 1 1 7 T 21 A
+stem_1 8 1 1 8 A 20 T
+stem_1 9 1 1 9 T 19 A
+stem_1 10 1 1 10 A 18 T
+Num of bp: 10; Basepairing: -15.234836; BaseStacking: -30.547554; Coaxial-Stacking: 0.000000
+Temp 30.000000 T 303.149994 Kd 0.000000 I 0.000000 Ek 0.000000 q4 0.000000
+The information for the initial conformation at Temperature (30.000000 ℃ - 303.149994 K)
+stem_1 1 1 1 1 C 27 G
+stem_1 2 1 1 2 C 26 G
+stem_1 3 1 1 3 T 25 A
+stem_1 4 1 1 4 A 24 T
+stem_1 5 1 1 5 A 23 T
+stem_1 6 1 1 6 T 22 A
+stem_1 7 1 1 7 T 21 A
+stem_1 8 1 1 8 A 20 T
+stem_1 9 1 1 9 T 19 A
+stem_1 10 1 1 10 A 18 T
+stem_1 11 1 1 11 A 17 T
+Num of bp: 11; Basepairing: -17.438280; BaseStacking: -35.015705; Coaxial-Stacking: 0.000000
+Temp 20.000000 T 293.149994 Kd 0.000000 I 0.000000 Ek 0.000000 q4 0.000000
+The information for the initial conformation at Temperature (20.000000 ℃ - 293.149994 K)
+stem_1 1 1 1 1 C 27 G
+stem_1 2 1 1 2 C 26 G
+stem_1 3 1 1 3 T 25 A
+stem_1 4 1 1 4 A 24 T
+stem_1 5 1 1 5 A 23 T
+stem_1 6 1 1 6 T 22 A
+stem_1 7 1 1 7 T 21 A
+stem_1 8 1 1 8 A 20 T
+stem_1 9 1 1 9 T 19 A
+stem_1 10 1 1 10 A 18 T
+stem_1 11 1 1 11 A 17 T
+Num of bp: 11; Basepairing: -17.127823; BaseStacking: -36.031322; Coaxial-Stacking: 0.000000

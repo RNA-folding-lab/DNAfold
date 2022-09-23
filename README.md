@@ -33,14 +33,18 @@ This simulation code was developed to predict 3D structure and stability for dou
    IX. Input the chain concentration (mM) 
    --> *** (chain concentration)
 
-(b) Output files
+(b) Output files in results/
 1. conf.dat: predicted conformations at different MC steps;
 2. BP.dat: predicted base pairs at different MC steps;
 3. U.dat: energy of predicted conformations at different MC steps;
 4. jg.dat: radius of gyration, end-to-end distance, and persistent length of predicted conformations at different MC steps;
-5. para.dat: some information for this running, including start time, output frequency, etc.
+5. Secondary.dat: secondary structure of predicted conformations at different MC steps;
+6. tt.dat: average of number of base pairs as function of temperature;
+7. para.dat: some information for this running, including start time, output frequency, etc.
 # Examples
-Two examples for single- and double-stranded DNAs, respectively.
+Two examples for single- and double-stranded DNAs, respectively. 
+ssDNA: 1JVE-27nt hairpin (5'-CCTAATTATAACGAAGTTATAATTAGG-3'); 
+dsDNA: 1QSK-duplex with bulge loop (strand1: 17nt, 5'-GCATCGAAAAAGCTACG-3'; strand2: 12nt, 5'-CGTAGCCGATGC-3')
 # References
 1.	Shi, Y.Z., Wang, F.H., Wu, Y.Y. and Tan, Z.J. (2014) A coarse-grained model with implicit salt for RNAs: predicting 3D structure, stability and salt effect. J. Chem. Phys., 141, 105102.
 2.	Shi, Y.Z., Jin, L., Wang, F.H., Zhu, X.L. and Tan, Z.J. (2015) Predicting 3D structure, flexibility, and stability of RNA hairpins in monovalent and divalent ion solutions. Biophys. J., 109, 2654-2665.
