@@ -13,7 +13,7 @@ This simulation code was developed to predict 3D structure and stability for dou
 
    I. Folding Anealing or at constant T? 1. Folding (annealing) 2. Folding (constant temperature)
    --> 1 (using the SA algorithm for structure)   ***highly Recommend***
-   --> 2 (using constant temperature for structure.
+   --> 2 (using constant temperature for structure).
    II. The number of chain:
    --> 2 (for dsDNA)
    III. Input the 1-th chain length (nt):
@@ -45,7 +45,7 @@ This simulation code was developed to predict 3D structure and stability for dou
 Two examples for single- and double-stranded DNAs, respectively.
 1. ssDNA: 1JVE-27nt hairpin (5'-CCTAATTATAACGAAGTTATAATTAGG-3'); 
 2. dsDNA: 1QSK-duplex with bulge loop (strand1: 17nt, 5'-GCATCGAAAAAGCTACG-3'; strand2: 12nt, 5'-CGTAGCCGATGC-3')
-3. annealing from 100℃ to 20℃, slat=0
+3. annealing from 100℃ to 20℃, salt=0
 4. run: ./DNA<P.dat
 # References
 1.	Shi, Y.Z., Wang, F.H., Wu, Y.Y. and Tan, Z.J. (2014) A coarse-grained model with implicit salt for RNAs: predicting 3D structure, stability and salt effect. J. Chem. Phys., 141, 105102.
