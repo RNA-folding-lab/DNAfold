@@ -48,8 +48,9 @@ Two examples for single- and double-stranded DNAs, respectively.
 3. annealing from 100℃ to 20℃, salt=0
 4. run: ./DNA<P.dat
 # References
-1.	Shi, Y.Z., Wang, F.H., Wu, Y.Y. and Tan, Z.J. (2014) A coarse-grained model with implicit salt for RNAs: predicting 3D structure, stability and salt effect. J. Chem. Phys., 141, 105102.
-2.	Shi, Y.Z., Jin, L., Wang, F.H., Zhu, X.L. and Tan, Z.J. (2015) Predicting 3D structure, flexibility, and stability of RNA hairpins in monovalent and divalent ion solutions. Biophys. J., 109, 2654-2665.
-3.	Jin, L., Tan, Y.L., Wu, Y., Wang, X., Shi, Y.Z. and Tan, Z.J. (2019) Structure folding of RNA kissing complexes in salt solutions: predicting 3D structure, stability, and folding pathway. RNA, 25, 1532-1548.
-4.	Shi, Y.Z., Jin, L., Feng, C.J., Tan, Y.L. and Tan, Z.J. (2018) Predicting 3D structure and stability of RNA pseudoknots in monovalent and divalent ion solutions. PLoS Comput. Biol., 14, e1006222.
-5.	Jin, L., Shi, Y.Z., Feng, C.J., Tan, Y.L. and Tan, Z.J. (2018) Modeling structure, stability, and flexibility of double-stranded RNAs in salt solutions. Biophys. J., 115, 1403-1416.
+1. Mu, Z.C., Tan, Y.L., Zhang, B.G., Liu, J. and Shi, Y.Z. (2022) Ab initio predictions for 3D structure and stability of single- and double-stranded DNAs in ion solutions. PLoS Comput. Biol., accepted.
+2.	Shi, Y.Z., Wang, F.H., Wu, Y.Y. and Tan, Z.J. (2014) A coarse-grained model with implicit salt for RNAs: predicting 3D structure, stability and salt effect. J. Chem. Phys., 141, 105102.
+3.	Shi, Y.Z., Jin, L., Wang, F.H., Zhu, X.L. and Tan, Z.J. (2015) Predicting 3D structure, flexibility, and stability of RNA hairpins in monovalent and divalent ion solutions. Biophys. J., 109, 2654-2665.
+4.	Jin, L., Tan, Y.L., Wu, Y., Wang, X., Shi, Y.Z. and Tan, Z.J. (2019) Structure folding of RNA kissing complexes in salt solutions: predicting 3D structure, stability, and folding pathway. RNA, 25, 1532-1548.
+5.	Shi, Y.Z., Jin, L., Feng, C.J., Tan, Y.L. and Tan, Z.J. (2018) Predicting 3D structure and stability of RNA pseudoknots in monovalent and divalent ion solutions. PLoS Comput. Biol., 14, e1006222.
+6.	Jin, L., Shi, Y.Z., Feng, C.J., Tan, Y.L. and Tan, Z.J. (2018) Modeling structure, stability, and flexibility of double-stranded RNAs in salt solutions. Biophys. J., 115, 1403-1416.
